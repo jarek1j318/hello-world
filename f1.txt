@@ -1,4 +1,2 @@
 feature1
-modified
-modified2
-modified3
+feature2
